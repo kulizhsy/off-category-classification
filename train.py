@@ -31,7 +31,6 @@ from category_classification.models import (
 
 from category_classification.config import Config
 
-from utils import update_dict_dot
 from utils.io import (
     copy_category_taxonomy,
     save_category_vocabulary,
